@@ -1,0 +1,11 @@
+D:\asymmetricEncryption_cs\bin\Debug\netcoreapp2.1\asymmetricEncryption.deps.json
+D:\asymmetricEncryption_cs\bin\Debug\netcoreapp2.1\asymmetricEncryption.runtimeconfig.json
+D:\asymmetricEncryption_cs\bin\Debug\netcoreapp2.1\asymmetricEncryption.runtimeconfig.dev.json
+D:\asymmetricEncryption_cs\bin\Debug\netcoreapp2.1\asymmetricEncryption.dll
+D:\asymmetricEncryption_cs\bin\Debug\netcoreapp2.1\asymmetricEncryption.pdb
+D:\asymmetricEncryption_cs\obj\Debug\netcoreapp2.1\asymmetricEncryption.csprojAssemblyReference.cache
+D:\asymmetricEncryption_cs\obj\Debug\netcoreapp2.1\asymmetricEncryption.csproj.CoreCompileInputs.cache
+D:\asymmetricEncryption_cs\obj\Debug\netcoreapp2.1\asymmetricEncryption.AssemblyInfoInputs.cache
+D:\asymmetricEncryption_cs\obj\Debug\netcoreapp2.1\asymmetricEncryption.AssemblyInfo.cs
+D:\asymmetricEncryption_cs\obj\Debug\netcoreapp2.1\asymmetricEncryption.dll
+D:\asymmetricEncryption_cs\obj\Debug\netcoreapp2.1\asymmetricEncryption.pdb
